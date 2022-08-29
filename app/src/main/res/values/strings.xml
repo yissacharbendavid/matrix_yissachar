@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">matrix_yissachar</string>
+    <string name="all_benefits">כל ההטבות</string>
+    <string name="recommendations">המומלצים</string>
+    <string name="my_treats">הפינוקים שלי</string>
+    <string name="favorites">המועדפים שלי</string>
+    <string name="category_1">קטגוריה 1</string>
+    <string name="category_2">קטגוריה 2</string>
+    <string name="category_3">קטגוריה 3</string>
+    <string name="category_4">קטגוריה 4</string>
+    <string name="category_5">קטגוריה 5</string>
+    <string name="no_internet">אין חיבור לאינטרנט. לעבור להגדרות?</string>
+    <string name="category_title">קטגוריה %1$x</string>
+    <string name="benefit_id">הטבה מספר %1$s</string>
+    <string name="yes">כן</string>
+    <string name="continue_without_internet">המשך בלי אינטרנט</string>
+</resources>

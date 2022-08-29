@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/drawable/recycler_view_divider.xml" value="0.13" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout-land/fragment_benefit.xml" value="0.1437389770723104" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/activity_main.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/benefit_list_item.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/fragment_all_benefits.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/fragment_benefit.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/fragment_favorites.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/fragment_my_treats.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/freagment_recommendation.xml" value="0.12952898550724637" />
+        <entry key="..\:/Max_test/matrix_yissachar/app/src/main/res/layout/freagment_recommendations.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
